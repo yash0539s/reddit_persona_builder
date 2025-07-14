@@ -1,5 +1,4 @@
 # Main script for building Reddit personas
-
 import praw
 import os
 import sys
