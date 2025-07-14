@@ -1,0 +1,5 @@
+praw
+transformers
+torch
+dotenv
+tqdm

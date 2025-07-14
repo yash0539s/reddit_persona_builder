@@ -1,0 +1,3 @@
+Name: kojied
+Interests: Python, AI, Startups
+Summary: An AI enthusiast and indie hacker.
