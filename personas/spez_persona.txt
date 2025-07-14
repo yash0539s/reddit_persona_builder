@@ -1,0 +1,171 @@
+Based on the following Reddit posts and comments, generate a detailed user persona:
+
+[Post] Best Snoo I could do.: [I forgot its ears again.](https://preview.redd.it/j2bbssltqhaf1.png?width=936&format=png&auto=webp&s=1f1e853b0d2e257a84a2798dcde2d7a27c85e70d)
+[Post] Reddit’s next chapter: smarter, easier, still human: Hi everyone,
+
+I haven’t posted in a while—and let’s be honest, when I do show up, it usually means something’s gone sideways (and if it’s not gone sideways, it’s probably about to). But I’d like to communicate with you more regularly and directly about what we’re thinking and building. Many of these ideas come from our conversations with mods and users who participate in programs like Mod Council, Partner Communities, and the User Feedback Collective. 
+
+We recently shared our [Q1 earnings results](https://www.reddit.com/r/RDDT/comments/1kcibvm/reddit_announces_q125_earnings_plus_ama/) (TL;DR: Solid quarter). Beyond the numbers, I wanted to highlight a few moments from the start of the year:
+
+* In March, we [released a set of tools](https://www.reddit.com/r/reddit/comments/1j4z42x/making_contributing_easier_on_reddit_new_tools/), including post suggestions, insights, and rule checking, to help users participate successfully in conversations and let mods focus more on leading their communities. Reddit should feel easier to contribute to, especially for first-timers, and these are some of the ways we’re working towards that.
+* [Reddit Answers](https://www.reddit.com/answers)—our AI-powered search tool—is live in nine countries, including the US, UK, and India with support in English and more countries and languages on the way. It’s being used for everything from “what’s the best espresso machine” to “last night’s episode of The Last of Us.” Still early, but the vision is simple: make Reddit’s seemingly infinite human knowledge easier to access. Most of the conversations on Reddit happen on posts less than a day old. Reddit Answers unlocks the other 20 years. Reddit Answers doesn’t replace conversations—it’s a quicker path towards them.
+* In the first quarter, “reddit” was the 6th most Googled word in the U.S. (and sandwiched between “news” and “trump,” which is, I think, Chaotic Neutral on the internet alignment chart), proving that 1) people want what Reddit has and 2) Reddit search isn’t there quite yet, but [we’re right on schedule](https://www.reddit.com/r/announcements/comments/59k22p/comment/d992fwq/?context=1). 
+* 2.2 million players joined our April Fools’ Day event, [r/field](https://www.reddit.com/r/Field/) (with roughly half in my honor\*), and it’s an early proof of what’s possible for [games on Reddit](https://www.reddit.com/r/GamesOnReddit/). It’s really special to see people creating their own interactive experiences on our [Developer Platform](https://developers.reddit.com/), and I trust whatever our users come up with will be far more interesting than anything we build ourselves.
+
+[\*Mentions of “fuck spez” on Reddit](https://preview.redd.it/84rkh6lyzyye1.png?width=1209&format=png&auto=webp&s=c6a2085fa65a9e807116fa75c9f507a4f621d44d)
+
+Next month, Reddit turns 20. Honestly, it blows my mind. A lot has changed on Reddit over the years, and a lot has stayed the same. The core of Reddit’s identity hasn’t changed much—our model is still based on communities, voting, and (mostly) anonymous users, so our conversations remain some of the most real you can find online.
+
+Today, we see Reddit as having two superpowers: community and knowledge. At the end of last year, we updated our mission statement to reflect both: **Empower communities, and make their knowledge accessible to everyone.** This captures both our longstanding work in creating a platform for community and for using Reddit as a source for knowledge.
+
+Reddit is unlike any other platform, and that’s by design. While social media feeds you whatever content drives the most engagement, on Reddit, you decide what matters and make it popular through voting. We’re also one of the last major sites that doesn’t require you to sign in to access most features. We do this because we think it’s important, and we believe our open model helps fulfill the internet’s purpose: to bring individuals from all over the world together to discover, engage with, and exchange ideas that matter to them, without barriers and regardless of geography or language.
+
+And as we look ahead, we want to double down on these values. Our goal is to make Reddit the best version of itself by being faster, better, and easier to use. Here’s how we’re bringing that vision to life:
+
+**Core product improvements:** Across the platform, we’ll be trying out a range of updates to make things better. We’ll be making it easier to create and read posts and find new subreddits, upgrading profile pages, evolving r/popular, improving wikis, and ~~creating~~ fixing a lot of bugs. We will keep you updated with changes as we go. 
+
+**Moderation:** Moderators make communities, and by definition, without moderators, there are no communities. Moderating subreddits today can be time-consuming, too manual, and at times frustrating. It can be difficult to recruit new mods, and growing a community from scratch is way too hard. Often, a few folks end up carrying the weight, which isn’t fair or sustainable. Our vision is to shift the primary role of a moderator from policing to community cultivation. We’ll get there with better tools—especially more AI-driven automation—that moderators can choose to use in their communities. Focus groups, early product testing, and feedback loops shape how these systems evolve. u/Go_JasonWaterfalls will share more with mods here soon. I want to sincerely thank the many mods who have joined our councils, groups, and feedback sessions over the last couple of years to help us in this journey.
+
+**Search:** We believe search being great on Reddit will make the whole product better. Increasingly, people come to Reddit with a specific question that likely has been answered a hundred different ways. And whether you’re a first-time visitor or an old.reddit diehard, search should help you get to where you’re going faster. I’m the first to admit, finding what you’re looking for on Reddit hasn’t always (ever) been easy. We’ve made a lot of progress in the last few years and have many more improvements coming this year, including expanding Reddit Answers and integrating it directly into the core search experience. 
+
+**AI + Humans:** An increasing amount of the content you see online is generated by machines—so how does AI fit into the most human place on the internet? First, AI can be incredibly useful for things like summarization, safety, translation, and moderation. That includes filters that reduce the burden on mods by automatically removing spam, hateful, or violent content. And it powers things like [post guidance](https://support.reddithelp.com/hc/en-us/articles/17625458521748-Automations-Post-Comment-Guidance-Set-Up), which can tell a user whether their post violates a subreddit rule before they submit it—this helps new users learn the rules and also saves mods lots of time. Reddit’s strength is in its people, and we want AI tools that help you do what you’re already doing.
+
+That said, unwelcome AI in communities is a serious concern. It is the worry I hear most often these days from users and mods alike. **Reddit works because it’s human**. It’s one of the few places online where real people share real opinions. That authenticity is what gives Reddit its value. If we lose trust in that, we lose what makes Reddit…Reddit. Our focus is, and always will be, on keeping Reddit a trusted place for human conversation. 
+
+At the same time, anonymity is essential to Reddit. People come here to share experiences they wouldn’t post anywhere else because they know they are safe to do so. To make this possible, historically, Reddit has required practically no information to create an account. We have been—and will continue to be—extremely protective of your personal information, and will continue to push back against excessive or unreasonable demands from public or private authorities. If you want to know more about how we respond to  legal requests from governments, law enforcement, and private parties, check out our biannual [Transparency Report](https://redditinc.com/policies/transparency-report-july-to-december-2024).
+
+To keep Reddit human and to meet evolving regulatory requirements, we are going to need a little more information. Specifically, we will need to know whether you are a human, and in some locations, if you are an adult. But **we never** want to know your name or who you are. The way we will do this is by working with various third-party services that can provide us with the essential information and nothing else. No solution is perfect—including the status quo—but we will do our best to preserve both the humanness and anonymity of Reddit. We will share more as we go.
+
+**Premium content:** You might’ve seen some headlines about “paid subreddits.” Perhaps those articles were behind paywalls. Let me clarify: we’re not putting Reddit behind a paywall. We are thinking about how to empower communities to monetize through premium experiences and exclusive spaces. One way to do that is by enabling communities to offer a separate space for their most leaned-in members (back in the day, the most loved feature of Reddit Gold was access to r/lounge, and we’d like to reimagine this). This would be an optional feature for communities that [want it](https://docs.google.com/forms/d/e/1FAIpQLSezA2xdhjMYEHkPRdIs4pVXyTB2vtqcPMZ4pQt679Yv1Ef05w/viewform).
+
+**Sunsetting old.reddit:** old.reddit is the version of Reddit that we built back in the mid-2000s. It doesn’t scale, it’s impossible to develop on, and it’s ugly af. We will be shutting it down at the end of the month.
+
+Just kidding. I don’t know why I say stuff like this. We’ll figure out how to work around it and keep it online as long as people are using it.
+
+https://preview.redd.it/prh1c0ewzyye1.png?width=1080&format=png&auto=webp&s=3c1fac3e0438d234b04dc5ec2443e7e6962a988d
+
+Thank you all for being a part of this. Reddit works because you contribute, upvote, downvote, moderate, and create spaces where real conversations happen. The internet is changing rapidly, and human perspectives have never been more important. More than ever, it’s essential that we share information, express our viewpoints, and find connection. 
+
+The last 20 years have proven how powerful online communities can be—and as we look ahead, I’m even more excited for what the next 20 will bring.
+
+Thank you,
+
+Steve aka spez
+[Post] Today we’re testing a new way to discuss political ads (and announcements): 
+[Post] Reddit is ProCSS: Hi Mods,
+
+I wanted to follow up on the [CSS and redesign post](https://www.reddit.com/r/modnews/comments/66q4is/the_web_redesign_css_and_mod_tools/) from a few weeks back and provide some more information as well as clarify some questions that have emerged.
+
+Based on your feedback, we will allow you to continue to use CSS on top of the new structured styles. This will be the last part of the customization tool we build as we want to make sure the structured options we are offering are rock solid. Also, please keep in mind that if you do choose to use the advanced option, we will no longer be treading as carefully as we have done in the past about breaking styles applied through CSS^1.
+
+To give you a sense of our approach, we’re starting with a handful of highly-customized communities (e.g. r/overwatch and r/gameofthrones) and seeing how close we can get to their existing appearance using the new system. Logos, images, colors, spoilers, menus, flairs (all kinds), and lots more will be supported. I know you’d like to see a list of everything, but we think the best approach will be to show instead of tell, which we’re racing to as quickly as possible.
+
+The widget system I mentioned in the last post isn’t directly related. Many communities have added complex functionality over the years (calendars, scoreboards, etc). A widget system will elevate these features to first-class status on Reddit, with the aim of making them both more powerful and reuseable. Yes, we’re evaluating how we would accept user-created widgets.  We intend for widgets to be able to be updated via the API, so you’ll still be able to create dynamically updating content in your subreddit sidebar.
+
+This change, and the redesign in general, is going to happen slowly.  We will will not be abruptly cutting everyone over to the new site at once.  We know it won’t be perfect at first (unlike the current site), and plan to include plenty of time to solicit feedback and make iterations.  Sharing our plans for subreddit customization this far advance with you is part of this process.
+
+We’ll start with a small alpha group and create a subreddit to solicit feedback.  As we continue to add features, we’ll expand the testing group to an opt-in beta.  If you’d like to participate in the alpha please add a reply to [this comment](https://www.reddit.com/r/modnews/comments/6auyq9/reddit_is_procss/dhhmebb/).  Please note, signing up does not guarantee a spot in the alpha.  We want to be able to be responsive to the alpha testers, and keeping the initial group small has proved to be effective in the past.
+
+I’d like thank everyone who has provided feedback on this topic.  There have been some very [constructive](https://www.reddit.com/r/ModSupport/comments/677rba/some_brainstorming_about_potential_widgets_in_the) [threads](https://www.reddit.com/r/ModSupport/comments/66rdiy/crowdsourcing_new_subreddit_widgets/).  I’d also like to take a moment to appreciate how civil the feedback has been.  This is a topic many of you feel passionate about.  Thank you for keeping things constructive.
+
+Cool?
+
+Cool.
+
+&nbsp;
+
+^1 No snark allowed.
+[Post] I hear the feedback on CSS / styles. I’m traveling, but will be back next week to chat more.: Hey All,
+
+I just wanted to leave a quick note and say we’re listening to all the feedback around CSS / customization. The quietness on my end is because I’m traveling and won’t have a couple hours to chat until next week, and I want to make sure I have time to answer questions. I appreciate all the feedback so far (and the fact that it’s been overwhelmingly polite!).
+
+Cheers,
+
+Steve
+[Post] The web redesign, CSS, and mod tools: Hi Mods,
+
+You may recall from my [announcement post](https://www.reddit.com/r/announcements/comments/5q4qmg/out_with_2016_in_with_2017/) earlier this year that I mentioned we’re currently working on a full redesign of the site, which brings me to the two topics I wanted to talk to you about today: Custom Styles and Mod Tools.
+
+##**Custom Styles**
+
+Custom community styles are a key component in allowing communities to express their identity, and we want to preserve this in the site redesign. For a long time, we’ve used CSS as the mechanism for subreddit customization, but we’ll be deprecating CSS during the redesign in favor of a new system over the coming months. While CSS has provided a wonderful creative canvas to many communities, it is not without flaws:
+
+* It’s web-only. Increasing users are viewing Reddit on mobile (over 50%), where CSS is not supported. We’d love for you to be able to bring your spice to phones as well.
+* CSS is a pain in the ass: it’s difficult to learn; it’s error-prone; and it’s time consuming.
+* Some changes cause confusion (such as changing the subscription numbers).
+* CSS causes us to move slow. We’d like to make changes more quickly. You’ve asked us to improve things, and one of the things that slows us down is the risk of breaking subreddit CSS (and third-party mod tools).
+
+We’re designing a new set of tools to address the challenges with CSS but continue to allow communities to express their identities. These tools will allow moderators to select customization options for key areas of their subreddit across platforms. For example, header images and flair colors will be rendered correctly on desktop and mobile.
+
+We know great things happen when we give users as much flexibility as possible. The menu of options we’ll provide for customization is still being determined. Our starting point is to replicate as many of the existing uses that already exist, and to expand beyond as we evolve.
+
+We will also natively supporting a lot of the functionality that subreddits currently build into the sidebar via a widget system. For instance, a calendar widget will allow subreddits to easily display upcoming events. We’d like this feature and many like it to be accessible to all communities.
+
+How are we going to get there? We’ll be working closely with as many of you as possible to design these features. The process will span the next few months. We have a lot of ideas already and are hoping you’ll help us add and refine even more. The transition isn’t going to be easy for everyone, so we’ll assist communities that want help (i.e. we’ll do it for you). u/powerlanguage will be reaching out for alpha testers.
+
+##**Mod Tools**
+
+Mod tools have evolved over time to be some of the most complex parts of Reddit, both in terms of user experience and the underlying code.  We know that these tools are crucial for the maintaining the health of your communities, and  we know many of you who moderate very large subreddits depend on third-party tools for your work. Not breaking these tools is constantly on our mind (for better or worse).
+
+We’re in contact with the devs of Toolbox, and would like to work together to port it to the redesign. Once that is complete, we’ll begin work on updating these tools, including supporting natively the most requested features from Toolbox.
+
+The existing site and the redesigned site will run in parallel while we make these changes. That is, we don’t have plans for turning off the current site anytime soon. If you depend on functionality that has not yet been transferred to the redesign, you will still have a way to perform those actions.
+
+While we have your attention… we’re also growing our internal team that handles spam and bad-actors. Our current focus is on report abuse. We’ve caught a lot of bad behavior. We hope you notice the difference, and we’ll keep at it regardless.
+
+##**Moving Forward**
+
+We know moderation can feel janitorial–thankless and repetitive. Thank you for all that you do. Our goal is to take care much of that burden so you can focus on helping your communities thrive.
+
+Big changes are ahead. These are fundamental, core issues that we’ll be grappling with together–changes to how communities are managed and express identity are not taken lightly. We’ll be giving you further details as we move forward, but wanted to give you a heads up early.
+
+Thanks for reading.
+
+update: now that I've cherry-picked all the easy questions, I'm going to take off and leave the hard ones for u/powerlanguage. I'll be back in a couple hours.
+[Post] Goodbye, Chad!: I am sad to share that u/deimorz is leaving Reddit (just the company, not the site, hopefully). Chad joined us back in 2013 when the company was only about ten people. He is the author of AutoModerator, which enabled Reddit to grow to its current size, and he is the creator of r/SubredditSimulator, which will ensure our survival after you are all gone. If you have spent any time in r/bugs, r/help, r/ModSupport, r/AutoModerator, r/modhelp, r/redditdev, r/Games, r/TheoryOfReddit, and many others, you have probably met Chad and have likely been helped by him.
+
+Chad, Reddit would not be what it is today without you, and we will miss you dearly. Best of luck out there!
+[Post] A New Challenger Appears!: Today we are excited to announce that [Philippe Beaudette](https://www.reddit.com/u/AchievementUnlockd) has joined us to lead our Community team. He comes from Wikipedia by way of Wikia. At the Wikimedia Foundation (which hosts and supports Wikipedia, among other sites) he was responsible for the team that did community management, user trust and safety, and strategic change management, guiding the community through a time of immense growth and maturation. He spent almost 7 years there, as one of their first community hires, and managed to have his fingers on a huge number of projects, from fundraising (raising money from nearly every country in the world and accepting Wikipedia’s first donation from Antarctica) to community governance and their international elections processes–while dealing with communities working in almost 200 different languages.  He’s particularly proud to have led their community interactions around a worldwide [24 hour site shut-down](http://www.huffingtonpost.com/2012/01/17/wikipedia-blackout_n_1212096.html?slideshow=true) to drive awareness of the SOPA bill two years ago, an effort that Reddit also joined.
+
+After leaving Wikipedia, Philippe joined Wikia and ran the Community Support and Engagement team there, supporting Wikia’s 350,000 fan-created communities. We are honored to have him on our team. Please welcome Philippe!
+
+In addition to Philippe, we have brought on an additional five members to the Community and Trust and Safety teams this week. See if you can collect them all!
+[Post] Admin released from captivity, reintroduced to Reddit community: I am sad to share that u/krispykrackers is leaving Reddit. Over the past five years, she has done an incredible amount of work for us and the Reddit community. She has been the face of our Community team at Reddit; helped us write many of our policies and was indispensable working through countless tricky situations; and she lead our efforts in support of Extra Life, raising hundreds of thousands of dollars for Children’s Miracle Network Hospitals. She has been a friend to me and many others here. While we are sad to see her go, we wish her the best going forward.
+
+Actually replacing Kristine is impossible, but next Monday, four (maybe five!) new members of our Community and Trust and Safety teams will be starting, which will give the team even more horsepower.
+[Post] A few updates on what has been keeping us busy: Hi All,
+
+I want to give you all an update with the things that are keeping us busy, and hopefully as a result, making you less busy:
+
+* **Spam**: Last quarter we saw a huge increase in spam, including a handful of heavy attacks. We diverted resources to combat this, and we have made quite a bit of progress, lowering user reported spam by over 60% from its high point last quarter. We still have plenty of work to do, but we are making steady progress. Removing as spam or reporting as such are still the most effective ways to help.
+
+* **Account Take-Overs** (ATOs): In response to our improved spam-fighting measures, the bad-guys have been targeting existing accounts, compromising them for the purpose of spamming and vote cheating. We are fighting ATOs on the engineering side, but ATOs also create a burden on our community team to notify affected users, send password reset emails, etc. We are working on automating the notification and recovery processes to free up our community managers. The root cause of the issue is poor passwords. Please use strong and unique passwords.
+
+* **Support Backlog**: Because of the aforementioned issues, our community team is swamped with support tickets. We are doing a good job keeping up with the incoming flow, but we do have a backlog that is taking time to work through. We are sorry for any delays. The good news is we have a number of new people joining the team over the next few weeks that will help.
+
+* **Modmail**: I am happy to report that we finally have a team dedicated to working on a new system for moderator mail. To this point, we have tried a number of approaches and have had a handful of false starts, but we have not made the sort of progress we would like. The current system is a series of hacks built on an old code base, and because of this, we have decided to build modmail as a new, separate system. This will allow us to develop it without disrupting your current workflows. We know this is where you spend a lot of your time, and we are working hard to make it more effective.
+
+We appreciate all you do for Reddit as moderators, and we appreciate seeing the questions you ask in this community. We are particularly thankful for those of you who jump in and help the other moderators here and elsewhere.
+
+– The Reddit Team
+[Comment] There's a message for all of us in this one.
+[Comment] TFW you open Reddit at 3am.
+[Comment] It's cute, but cell phones are not permitted in the museum.
+[Comment] I am prepared to see some truly blursed Snoos.
+[Comment] Noted.
+[Comment] I’d tap that link but I don’t want phish recommendations in my feed.
+[Comment] Hey thanks for the feedback. Glad you’re liking it so far! We’re working to make Answers better, and to better integrate it into the app.
+
+Another type of query that I’ve found works well is realtime subjective questions like, “what’s the best seat at the sphere”
+[Comment] This will be added to our next app release!
+[Comment] My requests to be able to comment in here have finally been granted.
+[Comment] That will be the nature of this call. We'll save the interesting stuff about the product and business for earnings, community AMA's, and [my posts](https://www.reddit.com/user/spez/comments/1kfciml/reddits_next_chapter_smarter_easier_still_human/).
+
+User Persona:
+ people in the U.S. have a Reddit account. That is, a single person can have a Reddit account for an entire week. That is, a single person can have a Reddit account for an entire week. That is, a single person can have a Reddit account for an entire week. That is, a single person can have a Reddit account for an entire week. That is, a single person can have a Reddit account for an entire week. That is, a single person can have a Reddit account for an entire week. That is, a single person can have a Reddit account for an entire week. That is, a single person can have a Reddit account for an entire week. That is, a single person can have a Reddit account for an entire week. That is, a single person can have a Reddit account for an entire week. That is, a single person can have a Reddit account for an entire week. That is, a single person can have a Reddit account for an entire week. That is, a single person can have a Reddit account for an entire week. That is, a single person can have a Reddit account for an entire week. That is, a single person can have a Reddit account for an entire week. That is, a
+
+[Citations]
+- Interest from: "That will be the nature of this call. We'll save the interesting stuff about the product and busines..."
+- Personality: Not explicitly found, inferred by model.
+- Location: Not explicitly found, inferred by model.
+- Profession: Not explicitly found, inferred by model.
