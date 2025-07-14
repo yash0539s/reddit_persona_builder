@@ -1,5 +1,4 @@
 # Main script for building Reddit personas
-# reddit_persona_builder.py
 
 import praw
 import os
